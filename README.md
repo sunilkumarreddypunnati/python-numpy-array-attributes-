@@ -7,25 +7,22 @@ It features practical tasks that cover array shape, dimensions, size, datatype, 
 
 ---
 
-
-## 📂 Task Progression: 
+## 📂 Task Progression: Beginner ➡️ Advanced  
 
 | 🧪 Task File | 📝 Statement | 📄 Source Code | 🖥️ Output |
 |--------------|--------------|----------------|------------|
-| [Attributes of numpy.py](numpy%20attributes/Attributes%20of%20numpy.py) | <img src="program%20statement.png" width="300"> | <img src="source%20code.png" width="300"> | <img src="output.png" width="300"> |
-
-
+| [Attributes of numpy.py](numpy%20attributes/Attributes%20of%20numpy.py) | <img src="program%20statement.png" width="250"> | <img src="source%20code.png" width="250"> | <img src="output.png" width="250"> |
 
 ---
 
 ## ✅ What I Practiced  
 
 - 📌 Understanding **array shape, rows & columns**  
-- 🔄 Checking the **number of dimensions (ndim)**  
-- ✖️ Counting **total elements with size**  
-- 📊 Exploring **data types (dtype) of arrays**  
-- 💾 Measuring **memory usage per element (itemsize)**  
-- 🗂️ Calculating **total memory consumption (nbytes)**  
+- 🔄 Checking the **number of dimensions (`ndim`)**  
+- ✖️ Counting **total elements (`size`)**  
+- 📊 Exploring **data types (`dtype`) of arrays**  
+- 💾 Measuring **memory usage per element (`itemsize`)**  
+- 🗂️ Calculating **total memory consumption (`nbytes`)**  
 
 ---
 
@@ -34,7 +31,7 @@ It features practical tasks that cover array shape, dimensions, size, datatype, 
 📊 **Sunil Kumar Reddy Punnati**  
 🎓 MCA Graduate | 💼 Data Analyst Intern  
 📍 Tirupati, India  
-💡 Passionate about Python, NumPy, and Data Analysis  
+💡 Passionate about **Python, NumPy, and Data Analysis**  
 🚀 Actively preparing for full-time roles in **Data Analytics** and **Software Development**  
 
 I believe in **learning by doing**, and this project reflects my commitment to mastering NumPy fundamentals with clean, structured coding.  
@@ -43,8 +40,8 @@ I believe in **learning by doing**, and this project reflects my commitment to m
 
 ## 🔗 Connect With Me  
 
-🌐 [LinkedIn](#)  
-💻 [GitHub](#)  
+🌐 [LinkedIn](https://www.linkedin.com/in/sunil-kumar-reddy-punnati-a0a279308/)  
+💻 [GitHub](https://github.com/sunilkumarreddypunnati)  
 
 ---
 
@@ -59,3 +56,4 @@ If you’re a **recruiter, mentor, or fellow learner** — let’s connect and g
 
 A curated **NumPy Array Attributes** task covering shape, dimensions, size, data type, memory usage, and efficiency.  
 Each task includes **source code and output screenshots** to help learners build confidence in NumPy fundamentals for data analysis.  
+
