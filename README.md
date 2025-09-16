@@ -10,6 +10,8 @@ It features practical tasks that cover array shape, dimensions, size, datatype, 
 
 ## 📂 Task Progression:
 
+## 📂 Task Progression: Beginner ➡️ Advanced  
+
 | 🧪 Task File | 📝 Statement | 📄 Source Code | 🖥️ Output |
 |--------------|--------------|----------------|------------|
 | [Attributes of numpy.py](numpy%20attributes/Attributes%20of%20numpy.py) | ![program statement](program%20statement.png) | ![source code](source%20code.png) | ![output](output.png) |
